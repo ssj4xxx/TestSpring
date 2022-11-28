@@ -9,6 +9,7 @@ public class BeanLifeCycleDemoApp {
         //Retrieve bean from Spring container
         Coach theCoach = context.getBean("myCoach", Coach.class);
         System.out.println(theCoach.getDailyWorkout());
+        System.out.println("Hello");
         context.close();
     }
 }

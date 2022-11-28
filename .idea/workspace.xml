@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="688e82a3-518e-46e3-8e56-c2cb4d03c364" name="Changes" comment="Learning Spring">
+      <change beforePath="$PROJECT_DIR$/TestSpring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestSpring.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I8xlwSnMVuYaVqPEKRvk2WUQqK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/KHOA121/IdeaProjects/SpringLearning/TestSpring",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.12623097",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "d41d8cd98f00b204e9800998ecf8427e"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KHOA121\IdeaProjects\SpringLearning" />
+      <recent name="C:\Users\KHOA121\IdeaProjects\TestSpring\src" />
+      <recent name="C:\Users\KHOA121\IdeaProjects\TestSpring" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KHOA121\IdeaProjects" />
+      <recent name="C:\Users\KHOA121\IdeaProjects\SpringLearning" />
+      <recent name="C:\Users\KHOA121\IdeaProjects\TestSpring\src" />
+      <recent name="C:\Users\KHOA121\IdeaProjects\TestSpring\src\com\luv2code\springdemo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luv2code.springdemo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BeanLifeCycleDemoApp">
+    <configuration name="BeanLifeCycleDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.BeanLifeCycleDemoApp" />
+      <module name="TestSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanScopeDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.BeanScopeDemoApp" />
+      <module name="TestSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.HelloSpringApp" />
+      <module name="TestSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.MyApp" />
+      <module name="TestSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetterDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.SetterDemoApp" />
+      <module name="TestSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0 TomcatRunner" type="TomcatRunner-By-Camtwo" factoryName="TomcatRunConfiguration">
+      <option name="TomcatRunnerV001-Modules" value="{&quot;modules&quot;:[]}" />
+      <option name="TomcatRunnerV001-TomcatInstallation" value="$PROJECT_DIR$/../../../../Program Files/Apache Software Foundation/Tomcat 9.0" />
+      <option name="TomcatRunnerV001-VmArgs" value="" />
+      <option name="TomcatRunnerV001-PassParentEnvVars" value="false" />
+      <option name="TomcatRunnerV001-CleanTmpWork" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BeanLifeCycleDemoApp" />
+      <item itemvalue="Application.BeanScopeDemoApp" />
+      <item itemvalue="Application.SetterDemoApp" />
+      <item itemvalue="Application.MyApp" />
+      <item itemvalue="Application.HelloSpringApp" />
+      <item itemvalue="Tomcat Runner.Tomcat 9.0 TomcatRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BeanLifeCycleDemoApp" />
+        <item itemvalue="Application.BeanScopeDemoApp" />
+        <item itemvalue="Application.SetterDemoApp" />
+        <item itemvalue="Application.HelloSpringApp" />
+        <item itemvalue="Application.MyApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="688e82a3-518e-46e3-8e56-c2cb4d03c364" name="Changes" comment="" />
+      <created>1669577167131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669577167131</updated>
+      <workItem from="1669626471291" duration="323000" />
+      <workItem from="1669627162771" duration="25000" />
+      <workItem from="1669646567784" duration="8000" />
+      <workItem from="1669646582378" duration="24000" />
+    </task>
+    <task id="LOCAL-00001" summary="Tomcat Server">
+      <created>1669625961859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669625961859</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Learning Spring">
+      <created>1669627399410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669627399410</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Learning Spring">
+      <created>1669636095385</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669636095385</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Learning Spring">
+      <created>1669645468320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669645468320</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Learning Spring">
+      <created>1669646820375</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669646820375</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tomcat Server" />
+    <MESSAGE value="Learning Spring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning Spring" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../SpringLearning/TestSpring/src/com/luv2code/springdemo/BaseballCoach.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
